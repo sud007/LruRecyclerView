@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CodeSign</string>
+    <string name="me_test"> Created by Sudhanshu Singh</string>
+    <string name="action_settings">Settings</string>
+    <string name="snack_action">I\'m Here!</string>
+    <string name="url_">https://www.about.me/sudhanshusingh</string>
+</resources>
